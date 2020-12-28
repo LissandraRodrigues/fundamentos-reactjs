@@ -32,7 +32,7 @@
 ## :dart: Sobre ##
 
 <p align="center">
-	<img align ="center" width="500px" heigth="500px" src="challenge.png"/>
+	<img align ="center" width="500px" heigth="500px" src="challenge-reactjs.png"/>
 </p>
 
 <br>
