@@ -8,6 +8,16 @@ export const Container = styled.div<ContainerProps>`
   background: #5636d3;
   padding: 30px 0;
 
+  .active {
+    padding-bottom: 5px;
+    border-bottom: solid 2px;
+    border-color: #ff872c;
+  }
+
+  .disabled {
+    opacity: 80%;
+  }
+
   header {
     width: 1120px;
     margin: 0 auto;
