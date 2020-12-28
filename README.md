@@ -41,7 +41,7 @@ Este projeto é resultado do meu sexto desafio de código no <a href="https://ro
 
 :warning:  Este projeto é complementado pelo <a href='https://github.com/LissandraRodrigues/database-upload'> back-end criado no quinto desafio. </a>
 
-<img src="go-finances.jpg"/>
+<img src="capa-go-finances.png"> 
 
 ## :rocket: Tecnologias ##
 
